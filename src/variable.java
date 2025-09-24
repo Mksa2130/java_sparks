@@ -10,11 +10,12 @@ public class variable {
 //        floating
         float payment =1034.3f;
         double bigpay=138492649.124;
+        int i=(int) bigpay;
 //        character
         char grade='a';
 //      boolean
         boolean flag=true;
-        System.out.println(bigpay);
+        System.out.println(sal);
 
     }
 }
