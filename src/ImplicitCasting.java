@@ -13,6 +13,7 @@ class ExplicitCasting {
         int a = (int)l;
         System.out.println(a);
         double d=77.23;
+
         int i=(int) d;
         System.out.println(i);
     }
