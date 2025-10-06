@@ -27,7 +27,7 @@ public class IfElseDemo {
              }
             }
         }
-        else
+        else if(a>5)
         {
             System.out.println("bhai 10 nhi hai mere pass");
             System.out.println("chal 5 hi de de");
@@ -39,6 +39,9 @@ public class IfElseDemo {
             {
                 System.out.println("bhai 5 nhi hai ");
             }
+        }
+        else{
+            System.out.println("paise hi nhi hai");
         }
     }
 }
