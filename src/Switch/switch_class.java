@@ -1,3 +1,5 @@
+package Switch;
+
 import java.util.Scanner;
 public class switch_class {
     public static void main (String[] args)

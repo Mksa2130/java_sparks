@@ -1,3 +1,5 @@
+package Operator;
+
 public class TernaryOp {
     public static void main(String[] args) {
         int marks = 23;
