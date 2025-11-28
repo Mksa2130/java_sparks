@@ -1,7 +1,4 @@
 package variable;
-
-
-
 public class instance {
 
     //I'll make instance variable
@@ -30,14 +27,18 @@ instance i=new instance(); //non premitive variable ->refrence variable this is 
     System.out.println("course "+ i1.course);
     i1.name="Himadri";
     i.display();
+    i1.display();
 
  }
  public void display()
  {
      String name ="Salman";
      System.out.println("name " +name);
+     System.out.println("age" +age);
 
  }
 
 
 }
+
+
